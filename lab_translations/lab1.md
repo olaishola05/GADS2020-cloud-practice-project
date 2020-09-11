@@ -24,7 +24,7 @@ In this lab, you will create virtual machines (VMs) and connect to them. You wil
 
 ### Create second VM instances
 
-Getting list of zones
+Getting list of zones and choose desired zone
 
 `gcloud compute zones list | grep us-central1`
 
@@ -78,4 +78,4 @@ Get external IP address of my-vm-1
 
 `gcloud compute instances list`
 
-You will see your web server's home page, including your custom text
+Paste external IP address a browser on a new tab, You will see your web server's home page, including your custom text
