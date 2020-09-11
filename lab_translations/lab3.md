@@ -106,4 +106,10 @@ Launch your browser to view the app at http://YOUR_PROJECT_ID.appspot.com
 
 ### Disable the application
 
-`gcloud app versions stop`
+`gcloud app versions stop VERSION_ID`
+
+OR
+
+Goto Go into _App Engine_ > _Instances_
+Select all the _instances_ you want to _delete_
+Click on _delete_
