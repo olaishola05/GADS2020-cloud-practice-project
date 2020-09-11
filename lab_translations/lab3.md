@@ -110,6 +110,6 @@ Launch your browser to view the app at http://YOUR_PROJECT_ID.appspot.com
 
 OR
 
-Goto Go into _App Engine_ > _Instances_
-Select all the _instances_ you want to _delete_
-Click on _delete_
+Goto Go into **App Engine** > **Instances**
+Select all the **instances** you want to **delete**
+Click on **delete**
